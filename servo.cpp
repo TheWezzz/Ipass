@@ -20,5 +20,5 @@ void servo::pos_set_to(const char* color) {
 }
 
 void servo::pos_set_to(double hue) {
-    angle(180 - static_cast<int>(hue));
+    angle( 180 - (static_cast<int>(hue) / 2);
 }

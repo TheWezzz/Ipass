@@ -132,7 +132,7 @@ public:
      * calculated by computing an rgb array of ints and finding the max value
      *
      * @return "red", "green", or "blue" as a const char*, except when
-     * brightness gets to0 low, ie there is nothing in front of the sensor,
+     * brightness gets too low, ie there is nothing in front of the sensor,
      * "too dark" is returned. any other option will return "wrong value"
      */
     const char* get_color();
