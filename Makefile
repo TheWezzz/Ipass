@@ -9,15 +9,15 @@
 #############################################################################
 
 # source files in this project (main.cpp is automatically assumed)
-SOURCES := color.cpp
+SOURCES := tcs3472.cpp servo.cpp leds.cpp color.cpp
 
 # header files in this project
-HEADERS :=
+HEADERS := tcs3472.h servo.h leds.h color.h
 
 # other places to look for files for this project
 SEARCH  := 
 
 # set RELATIVE to the next higher directory 
-# and defer to the Makefile.* there
+# and defer to the appropriate Makefile.* there
 RELATIVE := ..
 include $(RELATIVE)/Makefile.due
