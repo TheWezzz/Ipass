@@ -60,6 +60,8 @@ unsigned int tcs3472::get_brightness() {
     return value;
 }
 
+// READ COLORS =================================================================
+
 const char* tcs3472::get_color() {
     if (get_brightness() < 20) return "too dark";
 

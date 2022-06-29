@@ -4,9 +4,6 @@
 #include "leds.h"
 #include "servo.h"
 
-#define CATCH_CONFIG_MAIN  // This tells Catch to provide a main()
-#include "catch.hpp"
-
 bool get(hwlib::target::pin_in& pin) {
     return pin.read();
 }
