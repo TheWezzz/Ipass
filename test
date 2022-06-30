@@ -1,0 +1,26 @@
+CALIBRATIE:
+
+1. zorg ervoor dat de sensor vrij is van vuil en vocht
+2. druk op de knop
+3. CHECK dat de wijzer naar markering 1 wijst EN de alle leds uit zijn
+4. houd de rode kant van de kubus op 1 cm van de sensor (blauwe lijn)
+5. druk op de knop
+6. CHECK dat de wijzer naar markering 2 wijst EN de rode led brandt
+7. houd de gele kant van de kubus op 1 cm van de sensor (blauwe lijn)
+8. drup op de knop
+9. CHECK dat de wijzer naar markering 3 wijst EN de groene led brandt
+10.houd de groene kant van de kubus op 1 cm van de sensor (blauwe lijn)
+11.druk op de knop
+12.CHECK dat de wijzer naar markering 4 wijst EN de groene led brandt
+13.houd de blauwe kant van de kubus op 1 cm van de sensor (blauwe lijn)
+14.druk op de knop
+15.CHECK dat de wijzer naar markering 5 wijst EN de blauwe led brandt
+
+NB: voor "druk op de knop moet u mogelijk 1 seconde ingedrukt houden
+
+TROUBLESHOOTING
+de wijzer beweegt bij geen enkele check:    controleer aansluitingen en sensor, sensor is mogelijk stuk
+de wijzer wijkt af:                         draai de schroef los en calibreer totdat de checks weer overeen komen
+er branden niet 2 witte leds op de sensor:  controleer stroom toevoer, sensor heeft geen power
+de leds branden niet correct en/of de wijzer
+geeft inconqequente resultaten:             controleer de sensor. sensor is mogelijk stuk
